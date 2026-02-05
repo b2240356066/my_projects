@@ -1,9 +1,10 @@
 # Python Projects
 
-This folder contains Python projects developed for learning, coursework, and personal practice.
+This folder contains Python projects developed during coursework and personal practice.
 
-## Topics Covered
-- Problem solving
-- Algorithms
-- Data analysis
-- Small applications
+## Projects
+- Text Analyzer
+- Database Engine
+- Route Finder
+
+These projects focus on algorithms, problem solving, and data processing.
