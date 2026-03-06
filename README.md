@@ -7,6 +7,7 @@ This repository contains my programming projects developed in different language
 - **Python**: Data analysis, algorithms, and small-scale applications
 - **Java**: Object-oriented projects, game development, and management systems
 - **C++**: Data structures, algorithms, and system-level programming examples
+- **Verilog**: Digital logic design projects including hardware modules, finite state machines (FSM), and simulation testbenches
 
 Each folder includes individual projects with their own README files explaining the purpose, features, and technologies used.
 
@@ -16,4 +17,5 @@ Each folder includes individual projects with their own README files explaining 
 - C++
 - Object-Oriented Programming
 - Data Structures & Algorithms
-
+- Digital Logic Design
+- Verilog HDL
