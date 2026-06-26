@@ -30,3 +30,5 @@ Navigate to the project directory and compile all Java source files:
 
 ```bash
 javac *.java -d .
+
+java Main <diagnostic_catalogue.xml> <diagnostic_requests.xml>
