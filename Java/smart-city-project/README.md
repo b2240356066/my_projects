@@ -44,3 +44,5 @@ Ensure you have the Java Development Kit (JDK 11 or higher) installed on your sy
 Navigate to the root directory of the project where your `.java` files are located and compile them:
 ```bash
 javac *.java -d .
+
+java AetheriaCity
