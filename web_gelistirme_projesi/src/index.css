@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --pink-primary: #f472b6; /* Soft Fuchsia */
+  --pink-bg: #fdf2f8;      /* Very Light Pink */
+  --glass-bg: rgba(255, 255, 255, 0.7);
+}
+
+body {
+  background: radial-gradient(circle at top right, #fdf2f8, #fae8ff);
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
